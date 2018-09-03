@@ -22,7 +22,10 @@
 Status at 1 PM on 03 Sep:
 ![master-detail-works](https://github.com/abhi12ravi18/git-viz/blob/master/img/master-detail-works.PNG)
 
-Status at 5 PM as on 30 Aug: 
+# Repo link for master detail approach: [click here](https://github.com/abhi12ravi18/git-viz-master-detail)
+
+
+Status at 10 PM as on 30 Aug: 
 ![rest-api-works](https://github.com/abhi12ravi/github-viz/blob/master/git-viz-1.PNG)
 
 Status at 5 PM as on 30 Aug: 
